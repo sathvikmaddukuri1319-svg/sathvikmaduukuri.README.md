@@ -11,9 +11,9 @@ my journey has been shaped by curiosity, problem-solving, and building impactful
 - **Tools & Frameworks:** HTML, CSS, JavaScript, React, Node.js, Express, SQL, MongoDB  
 
 ## 🚀 What i Do
-- Build scalable web applications  
-- Solve real-world problems with efficient code  
-- Explore new technologies and share knowledge  
+- Build scalable web applications.  
+- Solve real-world problems with efficient code. 
+- Explore new technologies and share knowledge. 
 
 ## 🔗 Connect With Us
 - [GitHub](https://github.com/sathvikmaddukuri1319-svg)  
